@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  The metatada files are created, in order to allow GIT make their job.
+  
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  It gives you a bit more control to decide what you want to save
