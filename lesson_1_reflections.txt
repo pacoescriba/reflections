@@ -1,0 +1,61 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+	
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+   It shows up ONLY the differences and it makes the errors obvious
+   
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+   You can go back and forth. You will be sure that you can make changes in a sure way.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+   
+   You are the only person that know your work, so you are the correct person to decide when a change is really done.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+  Because they are focused on different kind of documents. For binary documents, like Google Docs, simultaneus control of several documents doesn't make sense.
+
+ How can you use the commands git log and git diff to view the history of files?
+
+   it's very easy. A piece of cake.
+
+How might using version control make you more confident to make changes that could break something?
+
+   Because if you make an error, you can easily undo the changes...
+
+ Now that you have your workspace set up, what do you want to try using Git for?
+
+   For making the more fantastic programs on the world
